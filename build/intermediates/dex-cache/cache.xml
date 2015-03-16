@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/work/Project/oschina-android-app/app/libs/commons-httpclient-3.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="964cd74171f427720480efdec40a7c7f6e58426a">
+        <dex dex="/work/Project/oschina-android-app/app/build/intermediates/pre-dexed/debug/commons-httpclient-3.1-c28d656e461933005d2cad9b0ab0354b7059fff1.jar" />
+    </item>
+
+</items>
